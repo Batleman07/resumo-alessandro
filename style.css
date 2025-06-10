@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
 :root{
     --corFundoContainer:#fff;
-    --corLateralEsquerda:#023e72;
+    --corLateralEsquerda:#1659bf;
     --corTextoProfile:rgba(255,255,255,0.2);
     --corBarraProgresso:#03a9f4;
 
@@ -260,3 +260,11 @@ a{
         grid-template-columns: repeat(1,1fr);
     }
  }
+ .ico {
+  width: 30px;
+  height: auto;
+}
+.ico2 {
+  width: 39px;
+  height: auto;
+}
